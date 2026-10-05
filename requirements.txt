@@ -6,3 +6,4 @@ torchvision
 timm
 scikit-image
 Pillow
+gunicorn
